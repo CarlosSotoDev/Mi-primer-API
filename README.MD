@@ -14,6 +14,13 @@ Dependecies: Aquí buscaremos las dependencias que necesitemos, buscamos y agreg
 
 ![](IMG/Dependencies.png)
 
+### Base de Datos
+La base de datos se encuentra dentro del proyecto en la carpeta de `Database` con el nombre de "**apisuarios**" y se puede exportar de forma directa en una base de datos con el servidor de phpmyAdmin en cualquier servicio de servidor local como Xampp o Wampp con es el caso de este proyecto
+
+La tabla se muestra de la siguiente forma:
+
+![](IMG/Tabla.png)
+
 ### 1. **Archivo `application.properties`**
 
 **Descripción**: Configuración de la aplicación, incluyendo detalles de conexión a la base de datos, configuraciones de JPA y Hibernate, y otras propiedades.
